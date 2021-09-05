@@ -10,6 +10,7 @@ Crear una tabla de contenidos
 | Fundamentos de NestJS - Introducción | [Link](https://youtu.be/Ij8yQJ0YS0A) | N/A | N/A |
 | Instalando NestJS con el Nest CLI | [Link](https://youtu.be/z1k3KNyZpKI) | [Código](./01-nest-fundamentos-INICIO) | [Código](./01-nest-fundamentos-FINAL)|
 | 🕹 Nest Controllers I (Router handlers, Http Status Code, Headers, y más) | [Link](https://youtu.be/r-UQMsAluok) | [Código](./02-nest-fundamentos-INICIO) | [Código](./02-nest-fundamentos-FINAL) |
+| 🕹 Nest Controllers II (Query Params Decorator - Query String) | [Link](https://youtu.be/OB5Wr92FqAY) | [Código](./03-nest-fundamentos-INICIO) | [Código](./03-nest-fundamentos-FINAL) |
 
 ## ¿Cómo funciona el curso?
 
