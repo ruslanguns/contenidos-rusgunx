@@ -5,14 +5,15 @@ En este repositorio estaré almacenando el código resultante del curso que esto
 ## Tabla de contenidos
 
 Crear una tabla de contenidos
-| Título | Enlace | **Inicio** | **Fin** |
-| ------ | ------ | ------ | ------ |
-| Fundamentos de NestJS - Introducción | [Link](https://youtu.be/Ij8yQJ0YS0A) | N/A | N/A |
-| Instalando NestJS con el Nest CLI | [Link](https://youtu.be/z1k3KNyZpKI) | [Código](./01-nest-fundamentos-INICIO) | [Código](./01-nest-fundamentos-FINAL)|
-| 🕹 Nest Controllers I (Router handlers, Http Status Code, Headers, y más) | [Link](https://youtu.be/r-UQMsAluok) | [Código](./02-nest-fundamentos-INICIO) | [Código](./02-nest-fundamentos-FINAL) |
-| 🕹 Nest Controllers II (Query Params Decorator - Query String) | [Link](https://youtu.be/OB5Wr92FqAY) | [Código](./03-nest-fundamentos-INICIO) | [Código](./03-nest-fundamentos-FINAL) |
-| 🕹 Nest Controllers III (Parámetos dinámicos) | [Link](https://youtu.be/L4tQt4AZDrw) | [Código](./04-nest-fundamentos-INICIO) | [Código](./04-nest-fundamentos-FINAL) |
-| 🕹 Nest Controllers III (Decorador Body y los DTO) | [Link](https://youtu.be/9IFYKuyBm4A) | [Código](./05-nest-fundamentos-INICIO) | [Código](./05-nest-fundamentos-FINAL) |
+| No. | Título | Enlace | **Inicio** | **Fin** |
+|------ | ------ | ------ | ------ | ------ |
+|00| Fundamentos de NestJS - Introducción | [Link](https://youtu.be/Ij8yQJ0YS0A) | N/A | N/A |
+|01| Instalando NestJS con el Nest CLI | [Link](https://youtu.be/z1k3KNyZpKI) | [Código](./01-nest-fundamentos-INICIO) | [Código](./01-nest-fundamentos-FINAL)|
+|02| 🕹 Nest Controllers I (Router handlers, Http Status Code, Headers, y más) | [Link](https://youtu.be/r-UQMsAluok) | [Código](./02-nest-fundamentos-INICIO) || [Código](./02-nest-fundamentos-FINAL) |
+|03| 🕹 Nest Controllers II (Query Params Decorator - Query String) | [Link](https://youtu.be/OB5Wr92FqAY) | [Código](./03-nest-fundamentos-INICIO) | [Código](./03-nest-fundamentos-FINAL) |
+|04| 🕹 Nest Controllers III (Parámetos dinámicos) | [Link](https://youtu.be/L4tQt4AZDrw) | [Código](./04-nest-fundamentos-INICIO) | [Código](./04-nest-fundamentos-FINAL) |
+|05| 🕹 Nest Controllers III (Decorador Body y los DTO) | [Link](https://youtu.be/9IFYKuyBm4A) | [Código](./05-nest-fundamentos-INICIO) | [Código](./05-nest-fundamentos-FINAL) |
+|06| 🕹 Nest Controllers V (Validaciones con Class-Validator) | [Link](https://youtu.be/KnhIPYRC234) | [Código](./06-nest-fundamentos-INICIO) | [Código](./06-nest-fundamentos-FINAL) |
 
 ## ¿Cómo funciona el curso?
 
