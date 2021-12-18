@@ -1,11 +1,6 @@
 # Contenidos de mi canal de Youtube y código fuente
 
-En este repositorio estaré almacenando el código resultante de las lecciones que tengo en [mi canal de Youtube](https://www.youtube.com/ruslangonzalez), en [mi cuenta de Twitch](https://www.twitch.tv/rusgunx), y contenidos que tengo en otros canales de Youtube y talleres en los que he participado y posiblemente participaré.
-
-# Tabla de contenidos
-
-- [Curso de Fundamentos de NestJS](## Curso de Fundamentos de NestJS)
-- Código de proyectos en Twitch
+En este repositorio estaré almacenando el código resultante de las lecciones que tengo en [mi canal de Youtube](https://www.youtube.com/ruslangonzalez), en [mi cuenta de Twitch](https://www.twitch.tv/rusgunx), y contenidos que tengo como artículos, talleres en los que he participado, etc.
 
 ## Código fuente del curso Fundamentos de NestJS
 
@@ -33,9 +28,45 @@ He tenido una experiencia muy interesante construyendo esta aplicación debido a
 
 Por desgracia no tengo todos los vídeos ya que han sido borrados de Twitch pero he hecho una lista en Youtube de los vídeos que he podido descargar de Twitch, de todas formas puedes verme en el show de Twitch todas las tardes entre las 6:30pm y las 9:00pm (GTM+1)
 
-| Fecha del directo | Proyecto                                       | Vídeo                                | Enlace al código |
-| ----------------- | ---------------------------------------------- | ------------------------------------ | ---------------- |
-| 15/12/2021        | Hablemos de los planes para mi canal de Twitch | [Link](https://youtu.be/d53_484N6_4) |
+| Fecha del directo | Proyecto                                       | Vídeo                                                 | Enlace al código |
+| ----------------- | ---------------------------------------------- | ----------------------------------------------------- | ---------------- |
+| 15/12/2021        | Hablemos de los planes para mi canal de Twitch | [Link](https://www.youtube.com/watch?v=eL2tO9xPZLM&t) |
+
+## Charlas y talleres en vivo
+
+| Fecha del directo | Proyecto                                                           | Vídeo                                                 | Enlace al código                                                        |
+| ----------------- | ------------------------------------------------------------------ | ----------------------------------------------------- | ----------------------------------------------------------------------- |
+| 16-08-2020        | Dominicode - CRUD + TypeOrm + MySQL                                | [Link](https://youtu.be/d53_484N6_4)                  | [Código](https://github.com/ruslanguns/nestjs-myblog/tree/livecoding/1) |
+| 23-08-2020        | Dominicode - CRUD Login JWT - Part 1                               | [Link](https://www.youtube.com/watch?v=lTmGLgtgjdM&t) | [Código](https://github.com/ruslanguns/nestjs-myblog/tree/livecoding/2) |
+| 30-08-2020        | Dominicode - CRUD Login JWT - Part 2                               | [Link](https://www.youtube.com/watch?v=kjr54SpV_eQ)   | [Código](https://github.com/ruslanguns/nestjs-myblog/tree/livecoding/3) |
+| 31-09-2020        | Dominicode - Deploy de NestJS con migraciones en TypeORM en Heroku | [Link](https://youtu.be/P2gvIQRXIuc)                  | [Código](https://github.com/ruslanguns/nestjs-myblog/tree/livecoding/4) |
+| 31-09-2020        | Anartz Mugika - Flags-Server - NestJS GraphQL Prisma API           | [Link](https://youtu.be/5I2liR4uns8)                  | [Código](https://github.com/ruslanguns/flags-server)                    |
+| 31-09-2020        | AngularCR - Internacionalizar una aplicación de Angular            | [Link](https://youtu.be/hZA_gmbS65A?t=3215)           | [Código](https://github.com/ruslanguns/DemoAngularCR-i18n)              |
+
+## Artículos
+
+Tengo muchas ganas de empezar esta costumbre de escribir artículos, por desgracia no es algo que acostumbre a hacer ya que no tengo mucho tiempo, espero coger una idea y darle forma. Si tienes alguna idea de artículo que te gustaría escribir, no dudes en contactarme.
+
+| Publicado en | Artículo                                                        | Enlace                                                                                             |
+| ------------ | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 26/03/2020   | Argumentos y variables de entorno en Docker                     | https://dev.to/ruslangonzalez/argumentos-y-variables-de-entorno-en-docker-j9o                      |
+| 29/03/2020   | Crear capturas del código desde Visual Studio Code con CodeSnap | https://dev.to/ruslangonzalez/crear-capturas-del-codigo-desde-visual-studio-code-con-codesnap-13hb |
+| 15/04/2020   | Configurar YARN en tus proyectos de Angular - VIDEO             | https://dev.to/ruslangonzalez/configurar-yarn-en-tus-proyectos-de-angular-video-goj                |
+
+## Tutoriales y vídeos variados
+
+| Tema                                                                                   | Enlace                                      |
+| -------------------------------------------------------------------------------------- | ------------------------------------------- |
+| Configurar YARN en tus proyectos de ANGULAR                                            | https://www.youtube.com/watch?v=WmwNuQ7boAI |
+| Cómo PERSONALIZAR y MEJORAR el Bash Terminal de LINUX                                  | https://www.youtube.com/watch?v=jwpzJquR3Zc |
+| Creando el PANNG Stack desde Cero — Prisma, Angular, NestJs, Nx, GraphQL — con @beeman | https://www.youtube.com/watch?v=0zYt9cjharM |
+| Microservices con NestJS - Introducción                                                | https://www.youtube.com/watch?v=BVsZEvFAGVg |
+| PANNG STACK DESDE CERO - Con Ruslán González - BEV002 BeeSoftLabs En Vivo!             | https://youtu.be/U4V_dA0fNPw                |
+| PANNG STACK DESDE CERO - PT 2 - Con Ruslán González - BEV003 BeeSoftLabs En Vivo!      | https://youtu.be/P5Lg7oNIXYc                |
+
+## Disclaimer
+
+Si por alguna razon los demos o el código no funciona por favor no dudes en crear un issue en el repositorio de GitHub respectivo para cada proyecto, de esta manera podemos mejorar la exposición de los mismos y estarías contribuyendo a mejorar el contenido de este repositorio.
 
 ## Autor
 
