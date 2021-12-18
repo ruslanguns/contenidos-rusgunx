@@ -28,9 +28,9 @@ He tenido una experiencia muy interesante construyendo esta aplicación debido a
 
 Por desgracia no tengo todos los vídeos ya que han sido borrados de Twitch pero he hecho una lista en Youtube de los vídeos que he podido descargar de Twitch, de todas formas puedes verme en el show de Twitch todas las tardes entre las 6:30pm y las 9:00pm (GTM+1)
 
-| Fecha del directo | Proyecto                                       | Vídeo                                                 | Enlace al código |
-| ----------------- | ---------------------------------------------- | ----------------------------------------------------- | ---------------- |
-| 15/12/2021        | Hablemos de los planes para mi canal de Twitch | [Link](https://www.youtube.com/watch?v=eL2tO9xPZLM&t) |
+| Fecha del directo | Proyecto                                       | Vídeo                                                 | Enlace al código                                                                                        |
+| ----------------- | ---------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 15/12/2021        | Hablemos de los planes para mi canal de Twitch | [Link](https://www.youtube.com/watch?v=eL2tO9xPZLM&t) | [Código](https://github.com/ruslanguns/ionic-canal-notes/tree/9bdae7adb9fa797282e788ebe239152b6dcd081d) |
 
 ## Charlas y talleres en vivo
 
