@@ -47,22 +47,22 @@ Por desgracia no tengo todos los vídeos ya que han sido borrados de Twitch pero
 
 Tengo muchas ganas de empezar esta costumbre de escribir artículos, por desgracia no es algo que acostumbre a hacer ya que no tengo mucho tiempo, espero coger una idea y darle forma. Si tienes alguna idea de artículo que te gustaría escribir, no dudes en contactarme.
 
-| Publicado en | Artículo                                                        | Enlace                                                                                             |
-| ------------ | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 26/03/2020   | Argumentos y variables de entorno en Docker                     | https://dev.to/ruslangonzalez/argumentos-y-variables-de-entorno-en-docker-j9o                      |
-| 29/03/2020   | Crear capturas del código desde Visual Studio Code con CodeSnap | https://dev.to/ruslangonzalez/crear-capturas-del-codigo-desde-visual-studio-code-con-codesnap-13hb |
-| 15/04/2020   | Configurar YARN en tus proyectos de Angular - VIDEO             | https://dev.to/ruslangonzalez/configurar-yarn-en-tus-proyectos-de-angular-video-goj                |
+| Publicado en | Artículo                                                        | Enlace                                                                                                                 |
+| ------------ | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 26/03/2020   | Argumentos y variables de entorno en Docker                     | [Link al artículo](https://dev.to/ruslangonzalez/argumentos-y-variables-de-entorno-en-docker-j9o)                      |
+| 29/03/2020   | Crear capturas del código desde Visual Studio Code con CodeSnap | [Link al artículo](https://dev.to/ruslangonzalez/crear-capturas-del-codigo-desde-visual-studio-code-con-codesnap-13hb) |
+| 15/04/2020   | Configurar YARN en tus proyectos de Angular - VIDEO             | [Link al artículo](https://dev.to/ruslangonzalez/configurar-yarn-en-tus-proyectos-de-angular-video-goj)                |
 
 ## Tutoriales y vídeos variados
 
-| Tema                                                                                   | Enlace                                      |
-| -------------------------------------------------------------------------------------- | ------------------------------------------- |
-| Configurar YARN en tus proyectos de ANGULAR                                            | https://www.youtube.com/watch?v=WmwNuQ7boAI |
-| Cómo PERSONALIZAR y MEJORAR el Bash Terminal de LINUX                                  | https://www.youtube.com/watch?v=jwpzJquR3Zc |
-| Creando el PANNG Stack desde Cero — Prisma, Angular, NestJs, Nx, GraphQL — con @beeman | https://www.youtube.com/watch?v=0zYt9cjharM |
-| Microservices con NestJS - Introducción                                                | https://www.youtube.com/watch?v=BVsZEvFAGVg |
-| PANNG STACK DESDE CERO - Con Ruslán González - BEV002 BeeSoftLabs En Vivo!             | https://youtu.be/U4V_dA0fNPw                |
-| PANNG STACK DESDE CERO - PT 2 - Con Ruslán González - BEV003 BeeSoftLabs En Vivo!      | https://youtu.be/P5Lg7oNIXYc                |
+| Tema                                                                                   | Enlace                                                     |
+| -------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Configurar YARN en tus proyectos de ANGULAR                                            | [Ir al vídeo](https://www.youtube.com/watch?v=WmwNuQ7boAI) |
+| Cómo PERSONALIZAR y MEJORAR el Bash Terminal de LINUX                                  | [Ir al vídeo](https://www.youtube.com/watch?v=jwpzJquR3Zc) |
+| Creando el PANNG Stack desde Cero — Prisma, Angular, NestJs, Nx, GraphQL — con @beeman | [Ir al vídeo](https://www.youtube.com/watch?v=0zYt9cjharM) |
+| Microservices con NestJS - Introducción                                                | [Ir al vídeo](https://www.youtube.com/watch?v=BVsZEvFAGVg) |
+| PANNG STACK DESDE CERO - Con Ruslán González - BEV002 BeeSoftLabs En Vivo!             | [Ir al vídeo](https://youtu.be/U4V_dA0fNPw)                |
+| PANNG STACK DESDE CERO - PT 2 - Con Ruslán González - BEV003 BeeSoftLabs En Vivo!      | [Ir al vídeo](https://youtu.be/P5Lg7oNIXYc)                |
 
 ## Disclaimer
 
