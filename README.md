@@ -66,7 +66,7 @@ Tengo muchas ganas de empezar esta costumbre de escribir artículos, por desgrac
 
 ## Disclaimer
 
-Si por alguna razon los demos o el código no funciona por favor no dudes en crear un issue en el repositorio de GitHub respectivo para cada proyecto, de esta manera podemos mejorar la exposición de los mismos y estarías contribuyendo a mejorar el contenido de este repositorio.
+Si por alguna razon los demos o el código no funciona por favor no dudes en crear un issue en el repositorio de GitHub respectivo para cada proyecto, de esta manera estarías contribuyendo a mejorar el contenido de este repositorio.
 
 ## Autor
 
