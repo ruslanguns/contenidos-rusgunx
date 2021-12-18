@@ -1,0 +1,12 @@
+[submodule "Proyectos/ionic-canal-notes"]
+	path = Proyectos/ionic-canal-notes
+	url = https://github.com/ruslanguns/ionic-canal-notes.git
+[submodule "Proyectos/my-blog"]
+	path = Proyectos/my-blog
+	url = https://github.com/ruslanguns/nestjs-myblog
+[submodule "Articles/dev.to"]
+	path = Articles/dev.to
+	url = https://github.com/ruslanguns/my-dev-articles
+[submodule "Proyectos/flags-server"]
+	path = Proyectos/flags-server
+	url = https://github.com/ruslanguns/flags-server
