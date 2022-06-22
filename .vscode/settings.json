@@ -1,0 +1,18 @@
+{
+  "eslint.workingDirectories": [
+    "./NestJS/Curso-NestJS-Fundamentos/00-Introduccion/INICIO",
+    "./NestJS/Curso-NestJS-Fundamentos/00-Introduccion/FINAL",
+    "./NestJS/Curso-NestJS-Fundamentos/01-Instalaciones/INICIO",
+    "./NestJS/Curso-NestJS-Fundamentos/01-Instalaciones/FINAL",
+    "./NestJS/Curso-NestJS-Fundamentos/02-Controllers-I/INICIO",
+    "./NestJS/Curso-NestJS-Fundamentos/02-Controllers-I/FINAL",
+    "./NestJS/Curso-NestJS-Fundamentos/03-Controllers-II/INICIO",
+    "./NestJS/Curso-NestJS-Fundamentos/03-Controllers-II/FINAL",
+    "./NestJS/Curso-NestJS-Fundamentos/04-Controllers-III/INICIO",
+    "./NestJS/Curso-NestJS-Fundamentos/04-Controllers-III/FINAL",
+    "./NestJS/Curso-NestJS-Fundamentos/05-Controllers-IV/INICIO",
+    "./NestJS/Curso-NestJS-Fundamentos/05-Controllers-IV/FINAL",
+    "./NestJS/Curso-NestJS-Fundamentos/06-Controllers-V/INICIO",
+    "./NestJS/Curso-NestJS-Fundamentos/06-Controllers-V/FINAL"
+  ]
+}
