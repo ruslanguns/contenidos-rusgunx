@@ -17,7 +17,7 @@ specifiers:
   class-validator: 0.13.2
   eslint: 8.18.0
   eslint-config-prettier: 8.5.0
-  eslint-plugin-prettier: 4.0.0
+  eslint-plugin-prettier: 4.2.1
   jest: 28.1.1
   prettier: 2.7.1
   reflect-metadata: 0.1.13
@@ -53,7 +53,7 @@ devDependencies:
   '@typescript-eslint/parser': 5.29.0_b5e7v2qnwxfo6hmiq56u52mz3e
   eslint: 8.18.0
   eslint-config-prettier: 8.5.0_eslint@8.18.0
-  eslint-plugin-prettier: 4.0.0_xu6ewijrtliw5q5lksq5uixwby
+  eslint-plugin-prettier: 4.2.1_xu6ewijrtliw5q5lksq5uixwby
   jest: 28.1.1_jbmz3vlfopghb5mdasddsdxfzq
   prettier: 2.7.1
   supertest: 6.2.3
@@ -2174,9 +2174,9 @@ packages:
       eslint: 8.18.0
     dev: true
 
-  /eslint-plugin-prettier/4.0.0_xu6ewijrtliw5q5lksq5uixwby:
-    resolution: {integrity: sha512-98MqmCJ7vJodoQK359bqQWaxOE0CS8paAz/GgjaZLyex4TTk3g9HugoO89EqWCrFiOqn9EVvcoo7gZzONCWVwQ==}
-    engines: {node: '>=6.0.0'}
+  /eslint-plugin-prettier/4.2.1_xu6ewijrtliw5q5lksq5uixwby:
+    resolution: {integrity: sha512-f/0rXLXUt0oFYs8ra4w49wYZBG5GKZpAYsJSm6rnYL5uVDjd+zowwMwVZHnAjf4edNrKpCDYfXDgmRE/Ak7QyQ==}
+    engines: {node: '>=12.0.0'}
     peerDependencies:
       eslint: '>=7.28.0'
       eslint-config-prettier: '*'
