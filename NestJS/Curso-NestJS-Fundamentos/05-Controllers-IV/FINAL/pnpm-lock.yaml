@@ -23,7 +23,7 @@ specifiers:
   reflect-metadata: 0.1.13
   rimraf: 3.0.2
   rxjs: 7.5.5
-  supertest: 6.2.3
+  supertest: 6.2.4
   ts-jest: 28.0.5
   ts-loader: 9.3.1
   ts-node: 10.8.1
@@ -56,7 +56,7 @@ devDependencies:
   eslint-plugin-prettier: 4.0.0_xu6ewijrtliw5q5lksq5uixwby
   jest: 28.1.1_jbmz3vlfopghb5mdasddsdxfzq
   prettier: 2.7.1
-  supertest: 6.2.3
+  supertest: 6.2.4
   ts-jest: 28.0.5_zv2ltmnvcc5apkdaecods742je
   ts-loader: 9.3.1_kunlnxgowht5psymbomb4rk6be
   ts-node: 10.8.1_qiyc72axg2v44xl4yovan2v55u
@@ -2068,7 +2068,7 @@ packages:
     dev: true
 
   /dezalgo/1.0.3:
-    resolution: {integrity: sha1-f3Qt4Gb8dIvI24IFad3c5Jvw1FY=}
+    resolution: {integrity: sha512-K7i4zNfT2kgQz3GylDw40ot9GAE47sFZ9EXHFSPP6zONLgH6kWXE0KWJchkbQJLBkRazq4APwZ4OwiFFlT95OQ==}
     dependencies:
       asap: 2.0.6
       wrappy: 1.0.2
@@ -3908,6 +3908,7 @@ packages:
   /qs/6.10.5:
     resolution: {integrity: sha512-O5RlPh0VFtR78y79rgcgKK4wbAI0C5zGVLztOIdpWX6ep368q5Hv6XRxDvXuZ9q3C6v+e3n8UfZZJw7IIG27eQ==}
     engines: {node: '>=0.6'}
+    deprecated: when using stringify with arrayFormat comma, `[]` is appended on single-item arrays. Upgrade to v6.11.0 or downgrade to v6.10.4 to fix.
     dependencies:
       side-channel: 1.0.4
     dev: true
@@ -4284,8 +4285,8 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /superagent/7.1.6:
-    resolution: {integrity: sha512-gZkVCQR1gy/oUXr+kxJMLDjla434KmSOKbx5iGD30Ql+AkJQ/YlPKECJy2nhqOsHLjGHzoDTXNSjhnvWhzKk7g==}
+  /superagent/8.0.0:
+    resolution: {integrity: sha512-iudipXEel+SzlP9y29UBWGDjB+Zzag+eeA1iLosaR2YHBRr1Q1kC29iBrF2zIVD9fqVbpZnXkN/VJmwFMVyNWg==}
     engines: {node: '>=6.4.0 <13 || >=14'}
     dependencies:
       component-emitter: 1.3.0
@@ -4303,12 +4304,12 @@ packages:
       - supports-color
     dev: true
 
-  /supertest/6.2.3:
-    resolution: {integrity: sha512-3GSdMYTMItzsSYjnIcljxMVZKPW1J9kYHZY+7yLfD0wpPwww97GeImZC1oOk0S5+wYl2niJwuFusBJqwLqYM3g==}
-    engines: {node: '>=6.0.0'}
+  /supertest/6.2.4:
+    resolution: {integrity: sha512-M8xVnCNv+q2T2WXVzxDECvL2695Uv2uUj2O0utxsld/HRyJvOU8W9f1gvsYxSNU4wmIe0/L/ItnpU4iKq0emDA==}
+    engines: {node: '>=6.4.0'}
     dependencies:
       methods: 1.1.2
-      superagent: 7.1.6
+      superagent: 8.0.0
     transitivePeerDependencies:
       - supports-color
     dev: true
